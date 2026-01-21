@@ -144,6 +144,11 @@ p {
     gap: 0.5rem;
 }
 
+.logo img {
+    height: 40px;
+    width: auto;
+}
+
 .desktop-nav {
     display: none;
 }
